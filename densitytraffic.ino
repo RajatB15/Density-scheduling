@@ -1,3 +1,9 @@
+/*
+Author: Rajat Bullakkanavar
+Project Name: Density based traffic scheduling system and smart street lights
+Hardware used: Arduino Mega, IR pairs, LED, Connecting wires
+
+*/
 
 #include<Thread.h>                        
 #include<StaticThreadController.h>
